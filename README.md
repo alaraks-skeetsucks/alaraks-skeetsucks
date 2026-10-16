@@ -1,7 +1,7 @@
 # alaraks / skeetsucks
 
-Official directory for **alaraks** (`pui-enjoyer`) and the **skeetsucks** project. 
-CS2 & CS:GO HvH community, private leaks, media, and configs (cfg / luas) for Gamesense (Skeet / GS) and Neverlose (NL).
+Official directory for **alaraks** and the **skeetsucks** project. 
+"skeetsucks" is CS:GO HvH community, private leaks, media, and configs (cfg / luas) for Gamesense (Skeet / GS) and Neverlose (NL).
 
 ### Links
 * **Main GitHub:** https://github.com/pui-enjoyer
@@ -11,4 +11,4 @@ CS2 & CS:GO HvH community, private leaks, media, and configs (cfg / luas) for Ga
 * **YouTube:** https://www.youtube.com/@skeetsucks
 
 ---
-Tags: alaraks, alarkas, pui-enjoyer, skeetsucks, skeet sucks, hvh, cs2 hvh, gamesense, skeet.cc, neverlose, nl, gs, cfg, configs, luas, private leaks.
+Tags: alaraks, skeetsucks
