@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ alaraks | skeetsucks ⚡
+# alaraks / skeetsucks
 ### 'skeetsucks' Is Official HvH Community, Private Leaks, Configs & Media Project
 
 [![GitHub](https://img.shields.io/badge/Main_GitHub-pui--enjoyer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pui-enjoyer)
