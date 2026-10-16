@@ -1,7 +1,7 @@
 <div align="center">
 
 # alaraks / skeetsucks
-### 'skeetsucks' Is Official HvH Community, Private Leaks, Configs & Media Project
+### "skeetsucks" Is Our Official Project. HvH Community, Private Leaks, Configs & Media
 
 [![GitHub](https://img.shields.io/badge/Main_GitHub-pui--enjoyer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pui-enjoyer)
 [![Discord](https://img.shields.io/badge/Discord-skeetsucks-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/skeetsucks)
